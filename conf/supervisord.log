@@ -1,0 +1,7 @@
+2018-01-22 17:15:40,633 CRIT Supervisor running as root (no user in config file)
+2018-01-22 17:15:40,948 INFO RPC interface 'supervisor' initialized
+2018-01-22 17:15:40,948 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-22 17:15:40,948 INFO daemonizing the supervisord process
+2018-01-22 17:15:40,949 INFO supervisord started with pid 13382
+2018-01-22 17:15:41,952 INFO spawned: 'Ratchet' with pid 13383
+2018-01-22 17:15:42,954 INFO success: Ratchet entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

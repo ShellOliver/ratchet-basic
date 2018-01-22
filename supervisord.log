@@ -1,0 +1,31 @@
+2018-01-22 16:49:38,113 CRIT Supervisor running as root (no user in config file)
+2018-01-22 16:51:29,279 CRIT Supervisor running as root (no user in config file)
+2018-01-22 16:58:04,574 CRIT Supervisor running as root (no user in config file)
+2018-01-22 16:58:04,890 INFO RPC interface 'supervisor' initialized
+2018-01-22 16:58:04,891 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-22 16:58:04,891 INFO daemonizing the supervisord process
+2018-01-22 16:58:04,892 INFO supervisord started with pid 5800
+2018-01-22 16:58:05,895 INFO spawned: 'Ratchet' with pid 5801
+2018-01-22 16:58:05,933 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 16:58:06,936 INFO spawned: 'Ratchet' with pid 5802
+2018-01-22 16:58:06,974 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 16:58:08,979 INFO spawned: 'Ratchet' with pid 5806
+2018-01-22 16:58:09,017 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 16:58:12,023 INFO spawned: 'Ratchet' with pid 5807
+2018-01-22 16:58:12,060 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 16:58:13,061 INFO gave up: Ratchet entered FATAL state, too many start retries too quickly
+2018-01-22 17:01:02,492 CRIT Supervisor running as root (no user in config file)
+2018-01-22 17:01:25,635 CRIT Supervisor running as root (no user in config file)
+2018-01-22 17:01:25,951 INFO RPC interface 'supervisor' initialized
+2018-01-22 17:01:25,951 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-22 17:01:25,952 INFO daemonizing the supervisord process
+2018-01-22 17:01:25,952 INFO supervisord started with pid 5933
+2018-01-22 17:01:26,955 INFO spawned: 'Ratchet' with pid 5934
+2018-01-22 17:01:26,994 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 17:01:27,997 INFO spawned: 'Ratchet' with pid 5938
+2018-01-22 17:01:28,035 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 17:01:30,040 INFO spawned: 'Ratchet' with pid 5939
+2018-01-22 17:01:30,079 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 17:01:33,085 INFO spawned: 'Ratchet' with pid 5943
+2018-01-22 17:01:33,123 INFO exited: Ratchet (exit status 1; not expected)
+2018-01-22 17:01:34,124 INFO gave up: Ratchet entered FATAL state, too many start retries too quickly
